@@ -1,0 +1,7 @@
+{
+  "name": "TatrySuperSki",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
